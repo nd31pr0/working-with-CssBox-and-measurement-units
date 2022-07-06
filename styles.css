@@ -1,0 +1,67 @@
+*{
+
+  padding: 0px;
+  margin: 0px;
+}
+html{
+  font-size: 20px;
+  
+}
+.heading {
+  font-size: 5rem;
+}
+.content{
+  font-size: 2rem
+  display: inline-block;
+}
+.container{
+  /* margin-top: 0px; */
+  height: 100%;
+  background: pink;
+  display: inline block;
+  
+}
+.side-menu{
+  display: inline-block;
+  width: 20vw;
+  background: red;
+  height: 100em;
+  margin-top: 0px;
+}
+.sub-container{
+  display: inline-block;
+  width: 75vw;
+  margin: 0px;
+  background: brown;
+  height: 100em;
+}
+
+/* Styles for the display property attribute */
+
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  display: block;
+  font-size: 40px;
+}
+.red{
+  background-color: red;
+  position: relative;
+  left: 100px;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.conteiner{
+  width: 70vh;
+  height: 70vh;
+  margin: auto;
+  background: pink;
+}
