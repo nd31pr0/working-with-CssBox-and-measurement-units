@@ -54,4 +54,6 @@ With visibility: hidden, any block can be hidden.
 
 
  BOX SHADOW AND TEXT SHADOW
- 
+ The following is a link to the css box shadow generator that helps in designing box shadows by click around to test different effects and properties.
+
+ https://cssgenerator.org/box-shadow-css-generator.html
